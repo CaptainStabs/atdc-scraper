@@ -1,0 +1,4 @@
+
+
+outlook calendar xpath:
+//*[@id="event-navbar"]/div[1]/div[2]/div[1]/div[2]/div[2]/span/ul/li[4]/a 
